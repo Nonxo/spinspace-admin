@@ -1,0 +1,20 @@
+.form-group {
+    margin-bottom: 20px;
+    background: inherit;
+    label {
+      margin: 0;
+    }
+  
+    input,
+    select {
+      height: 45px;
+      &:focus {
+        box-shadow: none; 
+      }
+    }
+  
+    small {
+      position: absolute;
+    }
+  }
+  
