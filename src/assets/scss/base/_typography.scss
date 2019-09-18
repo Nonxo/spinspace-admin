@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Avenir";
+  src: url("../../fonts/AvenirBold.woff2") format("woff2");
+  font-weight: 600;
+  font-display: fallback;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Avenir";
+  src: url("../../fonts/AvenirMedium.woff2") format("woff2");
+  font-weight: normal;
+  font-display: fallback;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Avenir";
+  src: url("../../fonts/AvenirLight.woff2") format("woff2");
+  font-weight: 300;
+  font-display: fallback;
+  font-style: normal;
+}
