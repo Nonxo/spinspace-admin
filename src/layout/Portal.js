@@ -7,7 +7,6 @@ const Portal = (props) => {
     const { match } = props;
     return (
         <React.Fragment>
-            
             <Navigation />
 
             <Router>
